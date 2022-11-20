@@ -1,2 +1,2 @@
 # Logo
-This is my personal logo created with python
+This is my personal logo created with python2
